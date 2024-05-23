@@ -1,4 +1,4 @@
-name: huggingface2
+name: huggingface
 channels:
   - pytorch
   - pytorch-nightly
